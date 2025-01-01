@@ -5,11 +5,11 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://artemito8.github.io/chess-site/pravila-gry/</loc>
+        <loc>https://artemito8.github.io/chess-site/rules.html/</loc>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://artemito8.github.io/chess-site/galereya/</loc>
+        <loc>https://artemito8.github.io/chess-site/gallery.html/</loc>
         <priority>0.8</priority>
     </url>
 </urlset>
